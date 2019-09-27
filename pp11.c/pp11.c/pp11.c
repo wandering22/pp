@@ -24,7 +24,7 @@ void game()
 			printf("猜大了\n");
 		else
 		{
-			printf("恭喜猜对，你太棒了！\n");
+			printf("恭喜猜对，智慧可爱，聪明伶俐的小女孩除了你还有谁？\n");
 			break;
 		}
 		//printf("%d\n", a);
